@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "Coolgamerzop181.aternos.me",
+    "port": 25879,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -1912,
+    "y": 243,
+    "z": -876
   },
   "utils": {
     "auto-auth": {
